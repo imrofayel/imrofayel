@@ -2,7 +2,7 @@
 
 **:joystick:Experience:** Programming and design of interactive applications.  *Vue.js, React, Nuxt, Tauri framework , FLutter, C++ and more.*
 
-I am **a student passionate about learning new stuff**, with a particular focus on developing applications, interfaces and user experience using web technologies. I wanna contribute to inspiring projects as well as creating innovative projects too. 🪐
+I am **a student passionate about learning new stuff**, with a particular focus on developing innovative applications, interfaces and user experiences using web technologies. I wanna contribute to inspiring projects as well as creating innovative projects too. 🪐
 
 I strive to learn from others and share my knowledge in a way that's always effective and respectful.
 
