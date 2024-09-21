@@ -6,17 +6,15 @@ I am **a student passionate about learning new stuff**, with a particular focus 
 
 I strive to learn from others and share my knowledge in a way that's always effective and respectful.
 
-> "Beyond economics or machinations that maintain the delicate balance and structure of our lives, kindness, empathy and mutual support have to be at the core of everything."
+> "It’s not who I am underneath, but what I do that defines me."
 
-***- From the game ["Sable".](https://www.youtube.com/watch?v=Fojy_YRseGk)***
+ — *from ["Batman Begins".](https://en.wikiquote.org/wiki/Batman_Begins)*
 
 
-### Projects 
+Some of my projects are: 
 
-- Procedural terrain generation with the *"Diamond Square"* algorithm ([code and paper](https://github.com/JuanGdev/VeranoPCG.git/)).
-- Introduction to algorithms with C++ (working on it :raised_hands:).([check the repo :smile:](https://github.com/JuanGdev/algorithmsIntroduction.git))
+ - **Ozan** — a lightweight knowledge base app built on <u>Flutter</u>. *([repo](https://github.com/imrofayel/Ozan))*.
+ 
+ - **fylepad** — an elegant notepad with powerful rich-text editing, built with <u>Vue & Tauri (Rust)</u>. *([repo](https://github.com/imrofayel/fylepad))*.
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:juan_purin)
-[![Linkedin: JuanAguileraHuerta](https://img.shields.io/badge/-JuanAguileraHuerta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/juan-aguilera-gdev/)](www.linkedin.com/in/juan-aguilera-gdev
-)
-[![GitHub JuanGdev](https://img.shields.io/github/followers/JuanGdev?label=follow&style=social)](https://github.com/JuanGdev)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:imrofayel) [![GitHub](https://img.shields.io/github/followers/imrofayel?label=follow&style=social)](https://github.com/imrofayel)
