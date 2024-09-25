@@ -18,3 +18,5 @@ Some of my projects are:
  - **fylepad** — an elegant notepad with powerful rich-text editing, built with <u>Vue & Tauri (Rust)</u>. *([repo](https://github.com/imrofayel/fylepad))*.
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:imrofayel) [![GitHub](https://img.shields.io/github/followers/imrofayel?label=follow&style=social)](https://github.com/imrofayel)
+
+![imrofayel's Stats](https://github-readme-stats.vercel.app/api?username=imrofayel&theme=dark&show_icons=true&hide_border=false&count_private=true)
