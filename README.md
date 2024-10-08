@@ -13,8 +13,8 @@ I strive to learn from others and share my knowledge in a way that's always effe
 
 Some of my projects are: 
 
- - **Ozan** — a lightweight knowledge base app built on <u>Flutter</u>. *([repo](https://github.com/imrofayel/Ozan))*.
+ - **[Ozan](https://github.com/imrofayel/Ozan)** — a lightweight knowledge base app built on <u>Flutter</u>.
  
- - **fylepad** — an elegant notepad with powerful rich-text editing, built with <u>Vue & Tauri (Rust)</u>. *([repo](https://github.com/imrofayel/fylepad))*.
+ - **[fylepad](https://github.com/imrofayel/fylepad)** — an elegant notepad with powerful rich-text editing, built with <u>Vue & Tauri (Rust)</u>.
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:imrofayel) [![GitHub](https://img.shields.io/github/followers/imrofayel?label=follow&style=social)](https://github.com/imrofayel) ![views](https://komarev.com/ghpvc/?username=imrofayel)
