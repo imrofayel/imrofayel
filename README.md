@@ -17,4 +17,6 @@ Some of my projects are:
  
  - **[fylepad](https://github.com/imrofayel/fylepad)** — an elegant notepad with powerful rich-text editing, built with <u>Vue & Tauri (Rust)</u>.
 
+ - **[Gitfyel](https://github.com/imrofayel/Gitfyel)** — Craft stunning GitHub profiles effortlessly.
+
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:imrofayel) [![GitHub](https://img.shields.io/github/followers/imrofayel?label=follow&style=social)](https://github.com/imrofayel) ![views](https://komarev.com/ghpvc/?username=imrofayel)
