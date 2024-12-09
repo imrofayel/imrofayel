@@ -1,6 +1,6 @@
 # Hi there! :octocat: 
 
-**:joystick:Experience:** Programming and design of interactive applications.  *Vue.js, React, Nuxt, Tauri framework , FLutter, C++ and more.*
+**:joystick:Experience:** Programming and design of interactive applications.  *Vue.js, React, Nuxt, Next, Tauri framework , FLutter, C++ and more.*
 
 I am **a student passionate about learning new stuff**, with a particular focus on developing innovative applications, interfaces and user experiences using web technologies. I wanna contribute to inspiring projects as well as creating innovative projects too. 🪐
 
