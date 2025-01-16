@@ -19,5 +19,5 @@ Some of my projects are:
 
  - **[Gitfyel](https://github.com/imrofayel/Gitfyel)** — Craft stunning GitHub profiles effortlessly.
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:imrofayel) [![GitHub](https://img.shields.io/github/followers/imrofayel?label=follow&style=social)](https://github.com/imrofayel) ![Stars](https://img.shields.io/github/stars/imrofayel)  ![views](https://komarev.com/ghpvc/?username=imrofayel) [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:imrofayel) [![GitHub](https://img.shields.io/github/followers/imrofayel?label=follow&style=social)](https://github.com/imrofayel) ![Stars](https://img.shields.io/github/stars/imrofayel)  ![views](https://komarev.com/ghpvc/?username=imrofayel) [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md) [![Peerlist](https://github-readme-badge.peerlist.io/api/imrofayel?style=social)](https://peerlist.io/imrofayel)
 
