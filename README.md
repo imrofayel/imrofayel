@@ -1,7 +1,8 @@
-Hi there! I'm **Naveed Azhar**, an indie developer passionate about crafting **interactive and user-friendly web applications** using modern technologies.  I enjoy the entire creative process, from brainstorming ideas, designing smooth interfaces, to writing clean, maintainable code. My projects often explore new frameworks, experimental design patterns, and performance-focused architectures.  
+<samp>Hi, I’m Naveed Azhar ⟡˙⋆
+I build web stuff that doesn’t suck.  
+Sometimes it works, sometimes it’s a feature.  
+Anime, music, caffeine fuel my code ⚡</samp>
 
-Outside of coding, I love immersing myself in films, anime, and music, which often spark inspiration for my work.  I’m always curious about learning new tools, collaborating with other developers, and building products that feel both practical and fun.
-
-[`Resume`](https://github.com/user-attachments/files/24917175/Resume.2.pdf) 
+<samp>Checkout my resume [Resume](https://github.com/user-attachments/files/24917175/Resume.2.pdf) </samp>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/imrofayel?style=social)](https://twitter.com/imrofayel) [![GitHub Followers](https://img.shields.io/github/followers/imrofayel?label=follow&style=social)](https://github.com/imrofayel) ![GitHub Stars](https://img.shields.io/github/stars/imrofayel?style=social) ![Profile Views](https://komarev.com/ghpvc/?username=imrofayel) [![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
